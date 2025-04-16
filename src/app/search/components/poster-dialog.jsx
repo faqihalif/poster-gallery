@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import Image from "next/image"
-import Dialog from '@/Components/Dialog'
+import Dialog from '../../../components/Dialog'
 
 const posterDialog = props => {
     const { show, setShow, size, poster } = props
