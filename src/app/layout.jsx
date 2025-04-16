@@ -12,8 +12,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-    title: "Free Paper & E-Poster JECIM 2025",
-    description: "Free Paper & E-Poster JECIM 2025",
+    title: "E-Poster JECIM 2025",
+    description: "E-Poster JECIM 2025",
+    icons: {
+        icon: '/logo-jecim-blue.png',
+    },
 };
 
 export default function RootLayout({ children }) {
