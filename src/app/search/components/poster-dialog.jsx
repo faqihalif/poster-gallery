@@ -4,7 +4,6 @@ import Dialog from '../../../components/Dialog'
 
 const posterDialog = props => {
     const { show, setShow, size, poster } = props
-    console.log(poster.file)
 
     return (
         <React.Fragment>
