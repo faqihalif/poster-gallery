@@ -764,7 +764,7 @@ export default function Home() {
                 </Link>
             </div>
 
-            <div className="mx-auto px-40">
+            <div className="mx-auto px-48">
                 <Swiper
                     effect={'cards'}
                     grabCursor={true}
