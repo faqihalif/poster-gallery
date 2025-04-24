@@ -771,7 +771,7 @@ export default function Home() {
     }
 
     return (
-        <div className="overflow-hidden py-20 px-4 space-y-12">
+        <div className="overflow-hidden py-24 px-4 space-y-12">
             <div className="absolute inset-0 self-center w-full -z-10">
                 <img src="/shape.png" alt="JECIM 2025" className="mx-auto" style={{ width: "1369", height: "1297" }} />
             </div>
