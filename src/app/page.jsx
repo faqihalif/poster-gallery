@@ -752,7 +752,7 @@ export default function Home() {
             <div className="absolute inset-0 self-center w-full -z-10">
                 <img src="/shape.png" alt="JECIM 2025" className="mx-auto" style={{ width: "1369", height: "1297" }} />
             </div>
-            <img src="/logo-jecim.png" alt="JECIM 2025" className="mx-auto" style={{ width: "277.25", height: "203" }} />
+            <img src="/logo-jecim.png" alt="JECIM 2025" className="mx-auto w-auto h-[180px]" />
             <p className="text-center text-5xl font-bold text-white">E-Poster</p>
 
             <div className="flex justify-center">
