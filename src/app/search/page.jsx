@@ -658,7 +658,7 @@ export default function Home() {
             "id": 82,
             "poster_id": "EP-101",
             "title": "Is Ophthalmic Manifestation in Relapsed Acute Lymphoblastic Leukemia Still Relevant as a Prognostic Marker? A Case Report",
-            "author": "Devina Juanita",
+            "author": "Marliyanti Nur Rahmah",
             "subspecialties": "Pediatric",
             "file": "/poster/EP-101/EP-101-1.jpg"
         },
